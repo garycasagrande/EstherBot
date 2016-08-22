@@ -1,5 +1,5 @@
 {
-    "HEY": "Hi there!\nI’m Gary's personal chatbot!\n![](https://pbs.twimg.com/profile_images/519124880269123585/ObTgzW5l.jpeg)\nWant to know more about Gary? %[Let's see the grandson!](postback:here_for_the_bot) %[Let's see the family!](postback:learn_about_esther) %[Ok,let's see the resume!](postback:random_fact)",
+    "HEY": "Hi there!\nI’m Gary's personal chatbot!\n![](https://pbs.twimg.com/profile_images/519124880269123585/ObTgzW5l.jpeg)\nWant to know more about Gary? %[Gary's grandson!](postback:here_for_the_bot) %[Gary's family!](postback:learn_about_esther) %[Gary's resume!](postback:random_fact)",
     "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
